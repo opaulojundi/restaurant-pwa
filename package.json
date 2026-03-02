@@ -1,5 +1,5 @@
 {
-    "name": "restaurante-pwa",
+    "name": "Comanda Virtual - Paulo",
     "version": "1.0.0",
     "description": "PWA para sistema de comanda de restaurante",
     "main": "server.js",
@@ -15,4 +15,5 @@
     "devDependencies": {
         "nodemon": "^3.0.1"
     }
+
 }
